@@ -1,0 +1,4 @@
+AnagramSolver
+=============
+
+Solves Anagrams
