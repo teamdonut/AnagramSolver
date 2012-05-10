@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donuts.AnagramSolver", "Donuts.AnagramSolver\Donuts.AnagramSolver.csproj", "{930A1A42-C7C2-4D9F-8C07-190CC2534C80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donuts.AnagramSolver.Tests", "Donuts.AnagramSolver.Tests\Donuts.AnagramSolver.Tests.csproj", "{0100E361-57BB-4D1E-929D-FA24080C5AB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{930A1A42-C7C2-4D9F-8C07-190CC2534C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{930A1A42-C7C2-4D9F-8C07-190CC2534C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{930A1A42-C7C2-4D9F-8C07-190CC2534C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{930A1A42-C7C2-4D9F-8C07-190CC2534C80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0100E361-57BB-4D1E-929D-FA24080C5AB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0100E361-57BB-4D1E-929D-FA24080C5AB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0100E361-57BB-4D1E-929D-FA24080C5AB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0100E361-57BB-4D1E-929D-FA24080C5AB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
